@@ -6,3 +6,7 @@ Fixing the keyboard: NotificationCenter
 
 But, most solutions tend to be quite DIY, and have to be implemented for each view controller that needs it.
 https://github.com/michaeltyson/TPKeyboardAvoiding
+
+## UILabel
+Make part of a UILabel bold in Swift
+https://stackoverflow.com/questions/36486761/make-part-of-a-uilabel-bold-in-swift
