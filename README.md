@@ -22,3 +22,7 @@ private func attributedText(withString string: String, targetString: String, col
     return attributedString
 }
 ```
+
+## UINavigationController
+Adding a Gradient Background to UINavigationBar on iOS
+- https://spin.atomicobject.com/2018/06/21/resize-navbar-gradient-ios/
