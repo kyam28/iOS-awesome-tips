@@ -26,3 +26,7 @@ private func attributedText(withString string: String, targetString: String, col
 ## UINavigationController
 Adding a Gradient Background to UINavigationBar on iOS
 - https://spin.atomicobject.com/2018/06/21/resize-navbar-gradient-ios/
+
+## Firebase
+Change GoogleService-Info.plist on development or production
+- https://qiita.com/takehilo/items/4437bed61665e2c955ed
